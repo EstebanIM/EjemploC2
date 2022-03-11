@@ -1,2 +1,2 @@
-# EjemploC2
-ejemplo de la segunda clase
+# EjemploC2 creacion de Ramas
+<h3>Cómo crear una Rama </1>
